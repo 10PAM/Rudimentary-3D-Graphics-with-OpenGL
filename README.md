@@ -16,3 +16,6 @@ Provided to you by: Mario Aguilera Piceno
 4. Assembly: Assembler converts assembly code into object code, creating a binary file (.o file)
 5. Linking: Linker compiles any provided object files and links static and or dynamic libraries (.lib - Windows; .a - Linux; .ar - Linux)
 6. Executing: final object executable file can be called using ./<filename>
+
+### Diagram Example of Compilation Process Pipeline (C, C++):
+<img width="826" height="359" alt="image" src="https://github.com/user-attachments/assets/5fcd56eb-4b7c-4e13-8b6b-6dd5b17212f9" />
