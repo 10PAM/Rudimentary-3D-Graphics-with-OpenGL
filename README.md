@@ -1,9 +1,8 @@
 # Rudimentary 3D Graphics With OpenGL
 Understanding 3D Graphics with OpenGL.
-
-# 3D Graphics with OpenGL: Setting Up and Understanding the Environment
 Provided to you by: Mario Aguilera Piceno
 
+# 3D Graphics with OpenGL: Setting Up and Understanding the Environment
 ## Understanding Compiling
 - Compiling is the process of: compilation.
 - It takes all source code files (C, C++, headers) and checks for code definitions and proper programming syntax (Does not check for runtime errors)
