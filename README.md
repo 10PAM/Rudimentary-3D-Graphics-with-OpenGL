@@ -1,4 +1,4 @@
-# Rudimentary-3D-Graphics-With-OpenGL
+# Rudimentary 3D Graphics With OpenGL
 Understanding 3D Graphics with OpenGL.
 
 # 3D Graphics with OpenGL: Setting Up and Understanding the Environment
